@@ -4,7 +4,7 @@ import (
 	"database/sql"
 
 	"fmt"
-	v1 "github.com/i-coder-robot/go-grpc-gttp-rest-microservice-todo.git/api/proto/v1"
+	v1 "github.com/iliketss/goweb.git/api/proto/v1"
 )
 
 const (
